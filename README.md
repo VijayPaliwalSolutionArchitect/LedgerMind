@@ -47,7 +47,7 @@ startup, so you can skip the `seed` step entirely.
 
 **Run the test suite:** `cd backend && .venv/Scripts/python -m pytest -q` — all
 tests pass against a throwaway database (see
-[`docs/RUNNING.md`](docs/RUNNING.md#tests)).
+[`docs/RUNNING.md`](docs/RUNNING.md#4-run-the-tests)).
 
 ---
 
@@ -137,3 +137,4 @@ module-by-module tour.
 - [`docs/env-config.md`](docs/env-config.md) — every environment variable + the `X-User` header.
 - [`docs/PLAYBOOK-CROSSWALK.md`](docs/PLAYBOOK-CROSSWALK.md) — Hero Projects Playbook (Project 10) → implementation coverage map.
 - [`docs/CODEBASE-ORGANIZATION.md`](docs/CODEBASE-ORGANIZATION.md) — file-by-file map.
+- [`docs/FUTURE-EXPANSION.md`](docs/FUTURE-EXPANSION.md) — roadmap: features, integrations, scaling, monetization.
